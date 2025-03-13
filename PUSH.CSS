@@ -1,0 +1,11 @@
+h1{
+    background-color: blue;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    margin: 0px;
+    font-family: 'Arial';
+    border-radius: 10px;
+}
